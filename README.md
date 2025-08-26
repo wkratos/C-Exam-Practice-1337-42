@@ -1,13 +1,24 @@
 # 42 Exam Practice – Final Exam Preparation
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge" alt="Language: C">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status: Active">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge" alt="Contributions: Welcome">
 
-![Language](https://img.shields.io/badge/language-C-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-Active-success.svg)
-![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)
+</p>
 
-This repository contains a collection of small C programs and functions I implemented to prepare for the **42 School final exam**.  
-Each file focuses on solving a specific exercise that can appear during the exam.  
-They cover string manipulation, number handling, algorithmic thinking, and various utility functions.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/THIS%20IS%20NOT%20A%20CHEATSHEET-red?style=for-the-badge" alt="THIS IS NOT A CHEATSHEET">
+</p>
+
+---
+
+This repository contains a collection of C programs and functions I implemented to practice for the 42 School final exam.
+Each file tackles exercises that were commonly seen, or similar variations of them.      
+They are only meant to strengthen skills in string manipulation, number handling, algorithmic problem-solving, and utility function implementation.     
 
 ---
 
@@ -15,7 +26,7 @@ They cover string manipulation, number handling, algorithmic thinking, and vario
 1. [Overview](#-overview)
 2. [Project Structure](#-project-structure)
 3. [Usage](#-usage)
-4. [Example](#-example)
+4. [Example](#example-for-first_wordc)
 5. [About 42](#-about-42)
 6. [Contributing](#-contributing)
 7. [License](#-license)
@@ -23,7 +34,7 @@ They cover string manipulation, number handling, algorithmic thinking, and vario
 ---
 
 ## 📌 Overview
-The goal of this repository is to:
+The goal of this repository is to:   
 - **Practice** common C exercises that appear in 42 School exams.
 - **Review** essential programming concepts such as strings, arrays, pointers, and algorithms.
 - **Improve** speed and accuracy under time constraints.
@@ -82,21 +93,24 @@ The goal of this repository is to:
 ## 🛠 Usage
 
 Each file is a standalone program.  
-To compile and run an exercise:
+- To compile and run an exercise:
 
-```bash```
-gcc -Wall -Wextra -Werror file_name.c -o program_name
-./program_name arguments
+```bash
+gcc -Wall -Wextra -Werror ./program_name arguments
+```
 
-### Example for first_word.c:
+---
 
-```bash```
+## Example for first_word.c:
+
+```bash
 gcc first_word.c -o first_word   
+```
 
-```bash```
+```bash
 ./a.out "Hello World" | cat -e
-
-Output:
+```
+- Output:
 
 Hello$
 
@@ -121,17 +135,21 @@ If you’d like to improve or expand this repository:
 1. **Fork** the repository
 2. Create a new branch:
    
-   ```bash```
+ ```bash
    git checkout -b feature-name
+ ```
+   
 3. Make your changes and commit:
    
-   ```bash```
-  git commit -m "Add feature description"
+ ```bash
+  git commit -m "Add feature description" 
+  ```
 
 4. Push to your branch:  
    
-   ```bash```
+```bash
   git push origin feature-name
+```
 
 5. Open a Pull Request
 
