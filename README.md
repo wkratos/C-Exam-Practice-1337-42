@@ -20,6 +20,12 @@ This repository contains a collection of C programs and functions I implemented 
 Each file tackles exercises that were commonly seen, or similar variations of them.      
 They are only meant to strengthen skills in string manipulation, number handling, algorithmic problem-solving, and utility function implementation.     
 
+## Quick Overview
+
+- **Built with:** C
+- **Focus:** 42/1337 exam-style practice covering strings, arrays, pointers, algorithms, and utility functions.
+- **What I learned:** Strengthening C fundamentals, solving small problems efficiently, debugging, and preparing for timed coding exercises.
+
 ---
 
 ## 📑 Table of Contents
