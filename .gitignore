@@ -1,0 +1,21 @@
+# Compiled binaries and objects
+a.out
+*.out
+*.o
+*.exe
+
+# Debugging and memory-checking output
+*.dSYM/
+vgcore.*
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
