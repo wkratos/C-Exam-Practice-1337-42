@@ -1,46 +1,74 @@
 # Exercise Inventory
 
-| Exercise | Source | Subject | Type |
-|---|---|---|---|
-| `add_prime_sum` | `add_prime_sum/add_prime_sum.c` | ✅ | Program |
-| `aff_a` | `aff_a/aff_a.c` | ✅ | Program |
-| `alt_case` | `alt_case/alt_case.c` | ✅ | Program |
-| `do_op` | `do_op/do_op.c` | ✅ | Program |
-| `epur_str` | `epur_str/epur_str.c` | ✅ | Program |
-| `even` | `even/even.c` | ✅ | Program |
-| `expand_str` | `expand_str/expand_str.c` | ✅ | Program |
-| `first_word` | `first_word/first_word.c` | ✅ | Program |
-| `ft_atoi` | `ft_atoi/ft_atoi.c` | ✅ | Function |
-| `ft_count_words` | `ft_count_words/ft_count_words.c` | ✅ | Function |
-| `ft_interval` | `ft_interval/ft_interval.c` | ✅ | Program |
-| `ft_itoa` | `ft_itoa/ft_itoa.c` | ✅ | Function |
-| `ft_range` | `ft_range/ft_range.c` | ✅ | Function |
-| `ft_str_is_numeric` | `ft_str_is_numeric/ft_str_is_numeric.c` | ✅ | Function |
-| `ft_strcapitalize` | `ft_strcapitalize/ft_strcapitalize.c` | ✅ | Function |
-| `ft_strlcat` | `ft_strlcat/ft_strlcat.c` | ✅ | Function |
-| `ft_strncpy` | `ft_strncpy/ft_strncpy.c` | ✅ | Function |
-| `ft_strrev` | `ft_strrev/ft_strrev.c` | ✅ | Function |
-| `ft_strstr` | `ft_strstr/ft_strstr.c` | ✅ | Function |
-| `inter` | `inter/inter.c` | ✅ | Program |
-| `inter_space` | `inter_space/inter_space.c` | ✅ | Program |
-| `is_power_of_2` | `is_power_of_2/is_power_of_2.c` | ✅ | Function |
-| `is_separator` | `is_separator/is_separator.c` | ✅ | Function |
-| `last_word` | `last_word/last_word.c` | ✅ | Program |
-| `max` | `max/max.c` | ✅ | Function |
-| `operations` | `operations/operations.c` | ✅ | Function |
-| `paramsum` | `paramsum/paramsum.c` | ✅ | Program |
-| `repeat_alpha` | `repeat_alpha/repeat_alpha.c` | ✅ | Program |
-| `rev_print` | `rev_print/rev_print.c` | ✅ | Program |
-| `rostring` | `rostring/rostring.c` | ✅ | Program |
-| `rot_13` | `rot_13/rot_13.c`, `rot_13/rot_13_alt.c` | ✅ | Program |
-| `rotone` | `rotone/rotone.c` | ✅ | Program |
-| `rstr_capitalizer` | `rstr_capitalizer/rstr_capitalizer.c`, `rstr_capitalizer/rcap.c` | ✅ | Program |
-| `search_and_replace` | `search_and_replace/search_and_replace.c` | ✅ | Program |
-| `snake` | `snake/snake.c` | ✅ | Program |
-| `snake_to_camel` | `snake_to_camel/snake_to_camel.c` | ✅ | Program |
-| `strlen` | `strlen/strlen.c` | ✅ | Function |
-| `ulstr` | `ulstr/ulstr.c` | ✅ | Program |
-| `union` | `union/union.c` | ✅ | Program |
-| `wdmatch` | `wdmatch/wdmatch.c` | ✅ | Program |
-| `wdmatch_alt` | `wdmatch_alt/wdmatch_alt.c` | ✅ | Program |
-| `zigzag` | `zigzag/zigzag.c` | ✅ | Function |
+## Level 1
+
+| Official name | Folder | Status | Subject | Compile |
+|---|---|---|---|---|
+| aff_a | [00__aff_a](00__aff_a) | complete | yes | pass |
+| first_word | [01__first_word](01__first_word) | complete | yes | pass |
+| repeat_alpha | [01__repeat_alpha](01__repeat_alpha) | complete | yes | pass |
+| rev_print | [01__rev_print](01__rev_print) | complete | yes | pass |
+| rot_13 | [01__rot_13](01__rot_13) | complete | yes | pass |
+| rotone | [01__rotone](01__rotone) | complete | yes | pass |
+| search_and_replace | [01__search_and_replace](01__search_and_replace) | complete | yes | pass |
+| ft_strlen | [01__ft_strlen](01__ft_strlen) | complete | yes | pass |
+| ulstr | [01__ulstr](01__ulstr) | complete | yes | pass |
+
+## Level 2
+
+| Official name | Folder | Status | Subject | Compile |
+|---|---|---|---|---|
+| do_op | [02__do_op](02__do_op) | complete | yes | pass |
+| ft_atoi | [02__ft_atoi](02__ft_atoi) | complete | yes | pass |
+| ft_strrev | [02__ft_strrev](02__ft_strrev) | complete | yes | pass |
+| inter | [02__inter](02__inter) | complete | yes | pass |
+| is_power_of_2 | [02__is_power_of_2](02__is_power_of_2) | complete | yes | pass |
+| last_word | [02__last_word](02__last_word) | complete | yes | pass |
+| max | [02__max](02__max) | complete | yes | pass |
+| union | [02__union](02__union) | complete | yes | pass |
+| wdmatch | [02__wdmatch](02__wdmatch) | complete | yes | pass |
+
+## Level 3
+
+| Official name | Folder | Status | Subject | Compile |
+|---|---|---|---|---|
+| add_prime_sum | [03__add_prime_sum](03__add_prime_sum) | complete | yes | pass |
+| epur_str | [03__epur_str](03__epur_str) | complete | yes | pass |
+| expand_str | [03__expand_str](03__expand_str) | complete | yes | pass |
+| ft_range | [03__ft_range](03__ft_range) | complete | yes | pass |
+| paramsum | [03__paramsum](03__paramsum) | complete | yes | pass |
+| rstr_capitalizer | [03__rstr_capitalizer](03__rstr_capitalizer) | complete | yes | pass |
+| str_capitalizer | [03__str_capitalizer](03__str_capitalizer) | complete | yes | pass |
+
+## Level 4
+
+| Official name | Folder | Status | Subject | Compile |
+|---|---|---|---|---|
+| ft_itoa | [04__ft_itoa](04__ft_itoa) | complete | yes | pass |
+| rostring | [04__rostring](04__rostring) | complete | yes | pass |
+
+## Level 5
+
+| Official name | Folder | Status | Subject | Compile |
+|---|---|---|---|---|
+| none matched | — | pending | — | — |
+
+## Unmatched or variant exercises
+
+| Exercise | Notes |
+|---|---|
+| alt_case | no confident match in reference repository |
+| even | no confident match in reference repository |
+| ft_count_words | no confident match in reference repository |
+| ft_interval | no confident match in reference repository |
+| ft_str_is_numeric | no confident match in reference repository |
+| ft_strlcat | no confident match in reference repository |
+| ft_strncpy | no confident match in reference repository |
+| ft_strstr | no confident match in reference repository |
+| inter_space | kept as a local variant and left unchanged |
+| is_separator | no confident match in reference repository |
+| operations | no confident match in reference repository |
+| snake | no confident match in reference repository |
+| snake_to_camel | no confident match in reference repository |
+| wdmatch_alt | preserved as a variant |
+| zigzag | no confident match in reference repository |

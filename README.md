@@ -87,33 +87,33 @@ Many exercises require processing `argc` and `argv`, handling invalid input and 
 ```text
 C-Practice-1337-42
 │
-├── add_prime_sum/
-├── aff_a/
-├── do_op/
-├── epur_str/
-├── expand_str/
-├── first_word/
-├── ft_atoi/
-├── ft_itoa/
-├── ft_range/
-├── ft_strcapitalize/
-├── ft_strlcat/
-├── ft_strncpy/
-├── ft_strstr/
-├── inter/
-├── last_word/
-├── max/
-├── paramsum/
-├── repeat_alpha/
-├── rev_print/
-├── rostring/
-├── rot_13/
-├── rotone/
-├── search_and_replace/
-├── snake_to_camel/
-├── ulstr/
-├── union/
-├── wdmatch/
+├── 00__aff_a/
+├── 01__first_word/
+├── 01__ft_strlen/
+├── 01__repeat_alpha/
+├── 01__rev_print/
+├── 01__rot_13/
+├── 01__rotone/
+├── 01__search_and_replace/
+├── 01__ulstr/
+├── 02__do_op/
+├── 02__ft_atoi/
+├── 02__ft_strrev/
+├── 02__inter/
+├── 02__is_power_of_2/
+├── 02__last_word/
+├── 02__max/
+├── 02__union/
+├── 02__wdmatch/
+├── 03__add_prime_sum/
+├── 03__epur_str/
+├── 03__expand_str/
+├── 03__ft_range/
+├── 03__paramsum/
+├── 03__rstr_capitalizer/
+├── 03__str_capitalizer/
+├── 04__ft_itoa/
+├── 04__rostring/
 └── ...
 ```
 
