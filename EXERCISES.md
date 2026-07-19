@@ -86,23 +86,3 @@
 | options | [05__options](05__options) | complete | yes | pass |
 | print_memory | [05__print_memory](05__print_memory) | complete | yes | pass |
 | rpn_calc | [05__rpn_calc](05__rpn_calc) | complete | yes | pass |
-
-## Unmatched or variant exercises
-
-| Exercise | Notes |
-|---|---|
-| alt_case | no confident match in reference repository |
-| even | no confident match in reference repository |
-| ft_count_words | no confident match in reference repository |
-| ft_interval | no confident match in reference repository |
-| ft_str_is_numeric | no confident match in reference repository |
-| ft_strlcat | no confident match in reference repository |
-| ft_strncpy | no confident match in reference repository |
-| ft_strstr | no confident match in reference repository |
-| inter_space | kept as a local variant and left unchanged |
-| is_separator | no confident match in reference repository |
-| operations | no confident match in reference repository |
-| snake | no confident match in reference repository |
-| snake_to_camel | no confident match in reference repository |
-| wdmatch_alt | preserved as a variant |
-| zigzag | no confident match in reference repository |
