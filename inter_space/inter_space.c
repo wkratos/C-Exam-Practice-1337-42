@@ -10,13 +10,11 @@ int	ft_strlen(char *str)
 int	main(int ac, char **ag)
 {
 	int	i;
-	int	size;
 	int	j;
 
 	if (ac == 2)
 	{
 		i = 0;
-		size = ft_strlen(ag[1]);
 		while (ag[1][i])
 		{
 			j = i + 1;
